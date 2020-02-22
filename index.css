@@ -1,0 +1,22 @@
+.container{
+    background-color: #c2c6cc;
+    border: 3vh solid #a7a9ac;
+}
+
+.form{
+    margin-left: 35rem;
+    font-size: 6vh;
+}
+
+.thank{
+    display:none;
+    margin-left:30rem;
+}
+
+.step{
+    display: none;
+}
+
+.step{
+    padding-top: 5rem;
+}
